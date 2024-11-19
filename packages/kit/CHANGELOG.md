@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 2.8.2
+### Patch Changes
+
+
+- fix: prevent duplicate fetch request when using Request with load function's fetch ([#13023](https://github.com/sveltejs/kit/pull/13023))
+
 ## 2.8.1
 ### Patch Changes
 
